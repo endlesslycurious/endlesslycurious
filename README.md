@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**endlesslycurious/endlesslycurious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Lead building backend infrastructure and performance-critical systems in AAA games.  
+Experience across C++, Python, and Go; focused on scalable services, tooling, and data visualisation.
 
-Here are some ideas to get you started:
+**Note:** My professional work is largely proprietary; my public repos are mainly tooling and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of expertise
+- Performance-critical systems in C++
+- Data tooling and visualisation using Python and Grafana
+- Backend services and distributed systems across C++ and Go
+
+## Currently exploring
+- AI-assisted development using Copilot and Zed
+- iOS development with Swift
+
+## Outside of work
+- Cycling, mainly gravel or indoors on Zwift
+- Street and urban photography
+- Occasional writing on my blog
